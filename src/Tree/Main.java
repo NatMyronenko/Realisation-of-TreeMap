@@ -1,8 +1,6 @@
-package Tree3;
+package Tree;
 
-import java.util.Collection;
 import java.util.Map;
-import java.util.Set;
 
 public class Main {
 

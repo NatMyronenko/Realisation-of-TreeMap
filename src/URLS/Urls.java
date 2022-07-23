@@ -4,7 +4,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.*;
 
-public class Urls2 {
+public class Urls {
     public static ArrayList<String> createListOfAllUrl() throws FileNotFoundException {
         // Здесь считываю сканером файл и использую Exception с описанием.
         File file = new File("C:\\Users\\USER\\urls.txt");
